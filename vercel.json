@@ -1,4 +1,5 @@
 {
+  "name": "hair-masters-luxury-salon",
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
